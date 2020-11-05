@@ -1,0 +1,3 @@
+[1104/133232.393:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/133232.419:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\20109\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\7d7b1a4f-28c8-4cbf-9776-1e63c7d26df9: The system cannot find the path specified. (0x3)
+[1104/142010.887:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
